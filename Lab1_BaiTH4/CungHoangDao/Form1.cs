@@ -25,6 +25,13 @@ namespace CungHoangDao
         private void button1_Click(object sender, EventArgs e)
         {
             datestr = maskedTextBox2.Text;
+            if(datestr == "  /  /")
+            {
+                MessageBox.Show("Vui long nhap ngay sinh");
+            }
+            else
+            {
+
             str = datestr.Split('/');
             day = str[0];
             month = str[1];
@@ -283,6 +290,14 @@ namespace CungHoangDao
                 MessageBox.Show("Ngay sinh khong hop le !");
 
             }
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            maskedTextBox2.Text = "";
+            textBox1.Text = "";
+            datestr = " / / ";
         }
 
         private void maskedTextBox2_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
@@ -297,49 +312,7 @@ namespace CungHoangDao
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            datestr = maskedTextBox2.Text;
-            str = datestr.Split('/');
-            day = str[0];
-            month = str[1];
-            year = str[2];
-            x = Convert.ToInt32(day);
-            y = Convert.ToInt32(month);
-            z = Convert.ToInt32(year);
-
-            if (z > 0 && z < 2025)
-            {
-                    switch (y)
-                    {
-                        case 1:
-                        {
-                            if (x > 0 && x <= 20)
-                            {
-                                textBox1.Text = "Ma Kết";
-                            }
-                            else if (x > 20 && x < 31)
-
-                            {
-
-                            }
-                            else
-                            {
-
-                            }
-                        }
-                        break;
-                        case 2:
-                        {
-                            break;
-                        }
-                }
-
-            }
-            else
-            {
-                MessageBox.Show("Ngay sinh khong hop le !");
-
-            }
-
+         
         }
         private bool check(string s)
         {
