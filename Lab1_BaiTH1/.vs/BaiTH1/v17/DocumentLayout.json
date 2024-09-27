@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A3C003-AAB6-419A-B9EA-5577CD3DF697}|BaiTH1\\BaiTH1.csproj|c:\\users\\son\\onedrive\\documents\\baith01\\baith1\\baith1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A3C003-AAB6-419A-B9EA-5577CD3DF697}|BaiTH1\\BaiTH1.csproj|solutionrelative:baith1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592669D9-E5F1-4E25-81D4-3B41D25D64D5}|NewFolder1{592669D9-E5F1-4E25-81D4-3B41D25D64D5}|C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{592669D9-E5F1-4E25-81D4-3B41D25D64D5}|NewFolder1{592669D9-E5F1-4E25-81D4-3B41D25D64D5}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A3C003-AAB6-419A-B9EA-5577CD3DF697}|BaiTH1\\BaiTH1.csproj|C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\baith1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2A3C003-AAB6-419A-B9EA-5577CD3DF697}|BaiTH1\\BaiTH1.csproj|solutionrelative:baith1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T03:18:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\BaiTH1\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTH1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\BaiTH1\\Form1.cs",
+              "RelativeToolTip": "BaiTH1\\Form1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:27:48.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\BaiTH1\\BaiTH1\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTH1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH1\\BaiTH1\\BaiTH1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\BaiTH1\\BaiTH1\\BaiTH1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:56:18.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

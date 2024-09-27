@@ -1,0 +1,10 @@
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Form1.resources
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Properties.Resources.resources
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+C:\Users\Son\OneDrive\Documents\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
