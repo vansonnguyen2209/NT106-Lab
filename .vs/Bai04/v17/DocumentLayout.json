@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C523BC-A5DA-4182-BB18-0056B00B1DCB}|CungHoangDao\\CungHoangDao.csproj|c:\\users\\son\\onedrive\\documents\\baith01\\lab1_baith4\\cunghoangdao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C523BC-A5DA-4182-BB18-0056B00B1DCB}|CungHoangDao\\CungHoangDao.csproj|solutionrelative:cunghoangdao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C523BC-A5DA-4182-BB18-0056B00B1DCB}|CungHoangDao\\CungHoangDao.csproj|C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\cunghoangdao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74C523BC-A5DA-4182-BB18-0056B00B1DCB}|CungHoangDao\\CungHoangDao.csproj|solutionrelative:cunghoangdao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\CungHoangDao\\Form1.cs",
+              "RelativeDocumentMoniker": "CungHoangDao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\CungHoangDao\\Form1.cs",
+              "RelativeToolTip": "CungHoangDao\\Form1.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAYwBUBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:38:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\CungHoangDao\\Form1.cs",
+              "RelativeDocumentMoniker": "CungHoangDao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\BaiTH01\\Lab1_BaiTH4\\CungHoangDao\\Form1.cs [Design]",
+              "RelativeToolTip": "CungHoangDao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:37:55.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
