@@ -1,0 +1,13 @@
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.Properties.Resources.resources
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.Server.resources
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BaiTH03 - Mạng\Bai05\Server\bin\Debug\Server.exe.config
+D:\BaiTH03 - Mạng\Bai05\Server\bin\Debug\Server.exe
+D:\BaiTH03 - Mạng\Bai05\Server\bin\Debug\Server.pdb
+D:\BaiTH03 - Mạng\Bai05\Server\bin\Debug\Newtonsoft.Json.dll
+D:\BaiTH03 - Mạng\Bai05\Server\bin\Debug\Newtonsoft.Json.xml
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.csproj.Up2Date
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.exe
+D:\BaiTH03 - Mạng\Bai05\Server\obj\Debug\Server.pdb

@@ -1,0 +1,13 @@
+D:\BaiTH03 - Mạng\Bai05\Client\bin\Debug\Client.exe.config
+D:\BaiTH03 - Mạng\Bai05\Client\bin\Debug\Client.exe
+D:\BaiTH03 - Mạng\Bai05\Client\bin\Debug\Client.pdb
+D:\BaiTH03 - Mạng\Bai05\Client\bin\Debug\Newtonsoft.Json.dll
+D:\BaiTH03 - Mạng\Bai05\Client\bin\Debug\Newtonsoft.Json.xml
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.Client.resources
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.Properties.Resources.resources
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.csproj.Up2Date
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.exe
+D:\BaiTH03 - Mạng\Bai05\Client\obj\Debug\Client.pdb
