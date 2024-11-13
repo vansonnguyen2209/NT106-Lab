@@ -1,0 +1,10 @@
+D:\BaiTH04 - Mạng\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\BaiTH04 - Mạng\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\BaiTH04 - Mạng\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.Form1.resources
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\BaiTH04 - Mạng\Bai02\Bai02\obj\Debug\Bai02.pdb
